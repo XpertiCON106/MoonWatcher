@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@next/eslint-plugin-next": "^15.2.3",
+    "@types/bcryptjs": "^2.4.6",
+    "bcryptjs": "^3.0.2",
     "next": "^15.2.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
